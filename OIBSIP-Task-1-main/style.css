@@ -1,0 +1,158 @@
+
+    nav{
+    display:flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin: 35px;
+    padding: 4px;
+    
+
+}
+
+p{
+    padding: 15px;
+}
+
+img{
+    height: 90px;
+    width: 80px;
+    padding-top: 11px;
+}
+
+.head{
+    display: flex;
+    font-family: 'Balthazar', serif; 
+    justify-content: space-around;
+    color: green;
+    font-weight:bold;
+    font-size: larger;
+    background-color:aliceblue;
+
+}
+
+.icon{
+    display: flex;
+    margin: 20px;
+    padding: 4px;
+    font-family: 'Vesper Libre', serif;
+    font-weight: 400;
+    font-size:xx-large;
+    color: green;
+    padding: 6px;
+    margin: 20px;
+}
+
+h1{
+    margin: 15px;
+}
+
+.main{
+    /*background-color: aliceblue;*/
+}
+
+h2{
+    font-family: 'Vesper Libre', serif;
+    color: green;
+    padding: 4px;
+    margin: 20px;
+    font-size: xxx-large;
+   margin-left: 620px;
+    
+
+}
+
+.sec-img{
+    height: 400px;
+    width: 400px;
+    margin-left: 535px;
+}
+
+
+.about-us{
+    background-color: aliceblue;
+
+}
+.about-us p{
+    color: green;
+    font-family: 'Balthazar', serif;
+    font-weight:bold;
+    font-size: larger;
+    margin-left: 500px;
+    margin-right: 500px;
+    line-height: 20px;
+    
+
+
+}
+
+a{
+    text-decoration: none;
+    color:green;
+}
+
+.contact-us p{
+    color: green;
+    font-family: 'Balthazar', serif;
+    font-weight:bold;
+    font-size: larger;
+    margin-left: 500px;
+    margin-right: 500px;
+    line-height: 20px;
+    
+
+
+}
+
+h3{
+    font-family: 'Vesper Libre', serif;
+    color: green;  
+    font-weight:bold;
+    font-size: x-large;
+}
+
+.salt{
+    height: 300px;
+    width: 300px;
+}
+
+button{
+    color: green;
+    border-radius: 5px;
+    border-color: green;
+    size: 40px;
+    margin-right: 80px;
+    
+}
+
+.our-products{
+    display: flex;
+    justify-content: space-around;
+    /*background-color: aliceblue;*/
+}
+
+
+.p1 .p2 .p3{
+    margin-top: 50px;
+}
+
+.contact-us{
+    background-color:aliceblue;
+
+}
+
+footer{
+    font-family: 'Balthazar', serif; 
+    display:flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin: 35px;
+    padding: 4px;
+   /* background-color:aliceblue;*/
+    color: green;
+    font-weight:bold;
+    font-size: larger;
+
+}
+
+
+
